@@ -16,4 +16,4 @@ Here is a screenshot and link to the site:
 
 ![alt screenshot of website](./public/assets/images/Screenshot%202022-09-22%20194848.png)
 
-[https://andrewhong23.github.io/note-taker/](https://andrewhong23.github.io/note-taker/)
+[https://giant-colossal-sing.glitch.me/](https://giant-colossal-sing.glitch.me/)
